@@ -1,0 +1,1 @@
+Run GTA V story mode (offline) with ScriptHookV and ReShade, and Minecraft Java with Fabric, then drop in the mod's two parts: the plugin for GTA and the jar for Minecraft. Start Minecraft first, then GTA, and the vault scene plays by itself.

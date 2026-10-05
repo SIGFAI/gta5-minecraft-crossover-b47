@@ -1,0 +1,5 @@
+Scene 4, Diamonds in the vault (gen/scene4.mp4, 19 s, 1080p60, game audio):
+1. [x] Title "DIAMOND VAULT" over the real Pacific Standard vault door, Minecraft diamond ore rises in the hallway, Steve holds a diamond pickaxe.
+2. [x] Steve mines the ore with arm swings, crack animation, break sounds; each ore pays out GTA banknotes and a money bag (Minecraft block breaks -> GTA cash effects).
+3. [x] "VAULT CLEARED, 12 diamonds. Los Santos pays." with money bags dropping with GTA physics.
+Weak: the GTA camera is tight in the narrow hallway, so Steve is mostly seen from behind.

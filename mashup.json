@@ -3,6 +3,11 @@
   "version": "1.0.0",
   "name": "Minecraft Crossover",
   "tagline": "GTA V and Minecraft run live together: Minecraft blocks and creatures appear inside Los Santos and react to the player. The change shows in the first 30 seconds of play.",
+  "how_to_play": [
+    "The Minecraft world is drawn live over Los Santos while you play GTA V story mode.",
+    "Press F7 to toggle the Minecraft layer and F8 to re-level the Minecraft ground.",
+    "Pick Story Mode in GTA V and keep the Minecraft window open, not minimized."
+  ],
   "kind": "passthrough",
   "games": [
     {
@@ -106,8 +111,5 @@
     "id": "crossover-gta5-minecraft",
     "status": "draft"
   },
-  "built_at": "2026-10-05T15:23:55.645Z",
-  "notes": [
-    "Run GTA V story mode (offline) with ScriptHookV and ReShade, and Minecraft Java with Fabric, then drop in the mod's two parts: the plugin for GTA and the jar for Minecraft. Start Minecraft first, then GTA, and the vault scene plays by itself."
-  ]
+  "built_at": "2026-10-05T15:23:55.645Z"
 }
